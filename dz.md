@@ -109,3 +109,11 @@ git branch  название ветки например так (git branch dz)
 
 git chekcout название ветки например (git chekcout main)
 если нет ризультата спроси у *УТКИ* ))
+
+**АРХИВАЦИЯ**
+
+git tag archive/<branchname> <branchname> АРХИВАЦИЯ
+
+git branch -d <branchname> **удоление**
+
+
